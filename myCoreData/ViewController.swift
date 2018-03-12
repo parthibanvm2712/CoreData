@@ -10,8 +10,6 @@ import UIKit
 import CoreData
 
 class ViewController: UIViewController, UITableViewDataSource {
-
-    // changes
     
     @IBOutlet var tblVw: UITableView!
     
